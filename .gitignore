@@ -1,0 +1,16 @@
+/.gradle/
+/build/
+/.idea/
+/local.properties
+/.android-sdk/
+app/build/
+app/release/
+app/debug/
+app/.cxx/
+.gradle-test-kit/
+.DS_Store
+*.iml
+*.keystore
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper-shared.jar
+gradle/wrapper/gradle-cli.jar
