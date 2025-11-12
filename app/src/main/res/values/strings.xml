@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DriveMap</string>
+    <string name="location_permission_rationale">Die App benötigt den Standort, um eine Offline-Straßenkarte aufzubauen.</string>
+    <string name="permission_request">Standortfreigabe erteilen</string>
+    <string name="start_tracking">Aufzeichnung starten</string>
+    <string name="stop_tracking">Aufzeichnung stoppen</string>
+    <string name="edit_speed_limit">Geschwindigkeitsbegrenzung bearbeiten</string>
+    <string name="speed_limit_placeholder">Neue Geschwindigkeitsbegrenzung (km/h)</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no_segments">Noch keine Straßenabschnitte erfasst.</string>
+</resources>
